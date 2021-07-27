@@ -31,3 +31,20 @@ build/
 
 ### VS Code ###
 .vscode/
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### Mac Os ###
+*.DS_Store
+*.DS_Store?
+
+override.properties
+logs/*
